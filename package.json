@@ -12,9 +12,9 @@
   "description": "",
   "type": "module",
   "dependencies": {
+    "@maplibre/maplibre-gl-native": "^6.4.1",
     "d3-geo": "^3.1.1",
     "maplibre-gl": "^5.24.0",
-    "puppeteer": "^25.3.0",
     "sharp": "^0.35.3",
     "topojson-client": "^3.1.0",
     "world-atlas": "^2.0.2"
